@@ -1,11 +1,21 @@
-0.Investasi Dan dukungan
-1.menu pembukaan
+Investasi 
+#Visi
+#misi
+Dukungan anda
+menu pembukaan
 # /logo 
 # /opsi pilihan 
-2.investasi
-#daftar
+investasi
+#Mendaftar
 #masuk
-  #
+#Dompet_0000000000D
+  #setor_dana_menu_ _
+  #Tarik_dana_menu_ _
+  #saldo_$/€/£/¥/₩/Rp_
+    #Konversi_
+       #$/€/£/¥/₩/Rp_konversi_ke_/{Dukp_coin
+  #donasi_setor
+#riwayat_penyetoran_penarikan
  
  
 
